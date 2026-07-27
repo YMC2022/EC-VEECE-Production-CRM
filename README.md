@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🚀 Best-CRM Open-source</h1>
+<h1>🚀 EC-VEECE Production CRM</h1>
 
 <strong>Production-proven full-stack CRM with Django, React, PostgreSQL, Redis, Celery, Stripe, Docker, and tenant-based access control.</strong>
 </div>
@@ -77,8 +77,8 @@ flowchart TB
 This runs the built frontend and backend behind one Nginx entrypoint.
 
 ```bash
-git clone https://github.com/Yurii-Slyvinskyi/Best-CRM-Open-Source.git
-cd Best-CRM-Open-Source
+git clone https://github.com/Yurii-Slyvinskyi/EC-VEECE-Production-CRM.git
+cd EC-VEECE-Production-CRM
 cp .env.prod.example .env
 ```
 
